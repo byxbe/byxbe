@@ -39,7 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-js?style=plastic&logo=javascript&logoColor=purple&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/php-php?style=plastic&logo=php&logoColor=purple&labelColor=black&color=black)  
 [![Telegram](https://img.shields.io/badge/@byxbe-Telegram?style=plastic&logo=telegram&logoColor=purple&labelColor=black&color=black)](https://t.me/byxbe)
-![Static Badge](https://img.shields.io/badge/discord%3A%20@byxbe?style=plastic&logo=discord&logoColor=purple&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/discord%3A%20byxbe-discord?style=plastic&logo=discord&logoColor=purple&labelColor=black&color=black)
 [![Static Badge](https://img.shields.io/badge/%40byxbe-steam?style=plastic&logo=steam&logoColor=purple&labelColor=black&color=black)](https://steamcommunity.com/id/byxbe)  
 
 </div>
